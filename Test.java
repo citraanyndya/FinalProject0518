@@ -3,5 +3,6 @@ public class Test {
         System.out.println("Hi, ini baris kode pertama");
         System.out.println("SIB 1A anomali");
         System.out.println("Anin imutttt");
+        System.out.println("sib");
     }
 }
