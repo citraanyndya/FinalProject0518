@@ -1,8 +1,7 @@
 public class Test {
     public static void main(String[] args) {
         System.out.println("Hi, ini baris kode pertama");
-        System.out.println("SIB 1A anomali");
-        System.out.println("Anin imutttt");
-        System.out.println("sib");
+        System.out.println("sib 1a anomlai");
+      
     }
 }
